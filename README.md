@@ -37,7 +37,7 @@ The provided C program, [daa mini project code.c](daa%20mini%20project%20code.c)
 
 1. Copy the code from the `daa mini project code.c` program file.
 
-2. Visit an online C compiler such as [OnlineGDB](https://www.onlinegdb.com/online_c_compiler), [Ideone](https://ideone.com/), or [Replit](https://replit.com/~).
+2. Visit an online C compiler such as [OnlineGDB](https://www.onlinegdb.com/online_c_compiler), [Ideone](https://ideone.com/), [Programiz](https://www.programiz.com/c-programming/online-compiler/), etc.
 
 3. Paste the copied code into the online compiler's code editor.
 
