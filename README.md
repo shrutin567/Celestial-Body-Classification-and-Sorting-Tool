@@ -42,5 +42,3 @@ The provided C program, [daa mini project code.c](daa%20mini%20project%20code.c)
 3. Paste the copied code into the online compiler's code editor.
 
 4. Click on the "Run" or "Execute" button provided by the online compiler.
-
-Feel free to explore this program to classify and sort celestial bodies based on specified constraints. If you have any questions or need further assistance, please don't hesitate to contact the repository owner, **shrutin567**.
