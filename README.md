@@ -4,7 +4,7 @@ This repository contains a C program designed to classify and sort celestial bod
 
 ## About the Program
 
-The provided C program (`daa mini project code.c`) is designed to achieve the following tasks:
+The provided C program (**daa mini project code.c**) is designed to achieve the following tasks:
 
 1. Accepts details of celestial bodies including their names, masses, and radii.
 2. Sorts celestial bodies based on mass and radius using three different sorting algorithms: Bubble Sort, Merge Sort, and Quick Sort.
